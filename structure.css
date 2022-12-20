@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+img#bride{
+    border-radius: 50%;
+    max-height: 30%;
+}
+img#groom{
+    border-radius: 50%;
+}
